@@ -1,4 +1,2 @@
-# brother-drivers
-If you are looking for a driver for Brother Printer, try visiting this page: https://brotherhardware.com/brother-drivers/
-
-<a href="https://brotherhardware.com/">Brother Hardware</a>
+# brother drivers
+If you are looking for Brother Printer drivers, try visiting this page, <a href="https://brotherhardware.com/">Brother Driver Downloads</a> because there are many drivers specifically for Brother printers that I know of, and it's free.
